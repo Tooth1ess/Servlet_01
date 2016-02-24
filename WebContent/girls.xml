@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<girls>
+	<girl>
+		<name>曾哥</name>
+		<age>28</age>
+		<shcool>北大</shcool>
+	</girl>
+	<girl>
+		<name>春哥</name>
+		<age>38</age>
+		<shcool>川音</shcool>
+	</girl>
+</girls>
